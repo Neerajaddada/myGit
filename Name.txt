@@ -1,1 +1,3 @@
-My name is Jeigyanshu
+My name is Jeigyanshu.
+I am a fulll stack java developer.
+I stay in Hyderabad.
